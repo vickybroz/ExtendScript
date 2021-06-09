@@ -1,5 +1,4 @@
-
-alert("This script run");
+// alert("This script run");
 
 
 
